@@ -100,7 +100,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="income" value="up"><label for="up">&nbsp;&nbsp;มากกว่า 30,000 บาท</label><br><br>
             
             <center>
-                <input type="button" value="ย้อนกลับ" id="click-back" onclick="location.href = 'welcome.php';">
+                <input type="button" value="ย้อนกลับ" id="click-back" onclick="location.href = 'welcome.html';">
                 <input type="button" value="Reset"id="click-reset" onclick="location.href = 'Home.php';">
                 <button type="submit" id="click-result">ประเมินผล</button></center>
         </div>    
