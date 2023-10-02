@@ -1,0 +1,138 @@
+#home-page{
+    width:50%;
+    height: 1730px;
+    border-radius: 25px;
+    margin:40px auto;
+    background-color: #ecb2b2;
+}
+.text1{
+    color: black;
+    font-size: 16px;
+}
+.card-body{
+    display: flex;
+    box-sizing: border-box;
+}
+.home-body{
+    display:block;
+    border-radius: 25px;
+    width:33.3%;
+}
+#myselect1{
+    width:60%;
+}
+#myselect2{
+    width:60%;
+}
+.text2{
+    color: black;
+    font-size: 16px;
+}
+.text3{
+    color: black;
+    font-size: 16px;
+}
+.text4{
+    color: black;
+    font-size: 12px;
+}
+.text5{
+    color: black;
+    font-size: 16px;
+}
+.next-line{
+    display: flex;
+    box-sizing: border-box;
+}
+.next-body{
+    display:block;
+    border-radius: 25px;
+    width:25%;
+}
+.last-line{
+    display: flex;
+    box-sizing: border-box;
+}
+.last-body{
+    display:block;
+    border-radius: 25px;
+    width:50%;
+}
+#hobby-page{
+    width:50%;
+    height: 850px;
+    border-radius: 25px;
+    margin:40px auto;
+    background-color: #edaee2;
+}
+#hobby-page5{
+    width:50%;
+    height: 930px;
+    border-radius: 25px;
+    margin:40px auto;
+    background-color: #edaee2;
+}
+.hobby-body{
+    text-align: center;
+    border-radius: 25px;
+    width:50%;
+}
+.hobby-mid{
+    text-align: center;
+    width:50%;
+    height: 250px;
+    border-style: solid;     
+
+}
+#bodywel
+{
+    background-image: url('../Webapp/image/wall1.jpg');
+}
+#body
+{
+    background-image: url('../Webapp/image/wall2.jpg');
+}
+#Hob
+{
+    background-image: url('../Webapp/image/wall3.jpg');
+}
+#click-login{
+    width:150px;
+    border-radius:20px;
+    background-color: #e7b3f2;
+}
+#click-back{
+    width:90px;
+    border-radius:15px;
+    background-color: #e7b3f2;
+}
+#click-reset{
+    width:90px;
+    border-radius:15px;
+    background-color: #e7b3f2;
+}
+#click-result{
+    width:90px;
+    border-radius:15px;
+    background-color: #e7b3f2;
+}
+#backto{
+    width:90px;
+    border-radius:15px;
+    background-color: #e7b3f2; 
+}
+.Hobby{
+    color: black;
+    font-size: 24px;
+    font-family: 'Noto Serif Thai', serif;
+}
+#myselect1{
+    width:150px;
+    border-radius:15px;
+
+}
+#myselect2{
+    width:150px;
+    border-radius:15px;
+
+}
