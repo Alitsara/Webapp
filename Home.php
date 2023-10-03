@@ -71,12 +71,6 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="status" value="widowed"> หม้าย(สามีหรือภรรยาเสียชีวิต)<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="status" value="single"> โสด<br>
 
-            <!-- <br><h5 class="text5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;อาศัยอยู่กับ</h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="live" value="couple"> คู่สมรส<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="live" value="alone"> คนเดียว<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="live" value="child"> ลูก/หลาน<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="live" value="careg"> ผู้ดูแล<br> -->
-
             <br><h5 class="text5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ประเภทที่อยู่อาศัย</h5>
             <h5 class="text4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;เลือกได้เพียง 1 ตัวเลือก</h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="add" value="private"> บ้านส่วนตัว<br>
@@ -100,7 +94,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="income" value="up"><label for="up">&nbsp;&nbsp;มากกว่า 30,000 บาท</label><br><br>
             
             <center>
-                <input type="button" value="ย้อนกลับ" id="click-back" onclick="location.href = 'welcome.html';">
+                <input type="button" value="ย้อนกลับ" id="click-back" onclick="location.href = 'index.html';">
                 <input type="button" value="Reset"id="click-reset" onclick="location.href = 'Home.php';">
                 <button type="submit" id="click-result">ประเมินผล</button></center>
         </div>    
